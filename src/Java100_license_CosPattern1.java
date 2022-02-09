@@ -24,15 +24,3 @@ public class Java100_license_CosPattern1 {
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
